@@ -1,0 +1,300 @@
+Name,Sex,Event,Equipment,Age,AgeClass,BirthYearClass,Division,BodyweightKg,WeightClassKg,Squat1Kg,Squat2Kg,Squat3Kg,Squat4Kg,Best3SquatKg,Bench1Kg,Bench2Kg,Bench3Kg,Bench4Kg,Best3BenchKg,Deadlift1Kg,Deadlift2Kg,Deadlift3Kg,Deadlift4Kg,Best3DeadliftKg,TotalKg,Place,Dots,Wilks,Glossbrenner,Goodlift,Tested,Country,State,Federation,ParentFederation,Date,MeetCountry,MeetState,MeetTown,MeetName,Sanctioned
+E.S. Denisenko,F,B,Raw,28.5,24-34,24-39,Open,67.3,,,,,,,-40,-45,-45,,,,,,,,,DQ,,,,,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+I.S. Lebetskaya,F,B,Raw,43.5,40-44,40-49,Open,73.2,,,,,,,80,85,90,,90,,,,,,90,1,88.80,86.89,76.50,70.06,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+K. Yakimovich,F,B,Raw,26.5,24-34,24-39,Open,60.6,,,,,,,40,42.5,45,,45,,,,,,45,2,49.57,49.79,43.98,38.42,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+A.G. Golneva,F,B,Raw,19.5,20-23,19-23,Juniors 17-21,50.3,,,,,,,32.5,35,-37.5,,35,,,,,,35,2,43.67,44.76,39.73,34.55,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+E.V. Marunevskaya,F,B,Raw,19.5,20-23,19-23,Juniors 17-21,63.7,,,,,,,40,42.5,-45,,42.5,,,,,,42.5,1,45.40,45.26,39.96,35.25,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+D. Gimbitskiy,M,B,Raw,30.5,24-34,24-39,Open,82,82.5,,,,,,127.5,132.5,,,132.5,,,,,,132.5,2,90.07,89.09,85.74,66.97,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+S. Kozlov,M,B,Raw,40.5,40-44,40-49,Open,79.3,82.5,,,,,,150,160,-167.5,,160,,,,,,160,1,110.90,109.84,105.88,82.28,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+V.O. Shevchenko,M,B,Raw,21.5,20-23,19-23,Open,80.1,82.5,,,,,,87.5,95,-97.5,,95,,,,,,95,3,65.46,64.81,62.44,48.60,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+M.S. Drozdov,M,B,Raw,23.5,24-34,24-39,Open,88,90,,,,,,165,172.5,177.5,,177.5,,,,,,177.5,1,116.10,114.65,109.99,86.55,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+Yu.G. Rimsha,M,B,Raw,35.5,35-39,24-39,Open,89.2,90,,,,,,160,162.5,165,,165,,,,,,165,3,107.17,105.82,101.46,79.91,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+R.N. Fedoseev,M,B,Raw,42.5,40-44,40-49,Open,86.6,90,,,,,,-135,-135,-135,,,,,,,,,DQ,,,,,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+A. Yanovskiy,M,B,Raw,41.5,40-44,40-49,Open,83.1,90,,,,,,150,160,-162.5,,160,,,,,,160,2,107.94,106.72,102.66,80.32,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+M. Khalevin,M,B,Raw,29.5,24-34,24-39,Open,89.7,90,,,,,,-145,145,-150,,145,,,,,,145,4,93.92,92.72,88.88,70.03,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+A. Kosykh,M,B,Raw,31.5,24-34,24-39,Open,93.8,100,,,,,,180,-190,-190,,180,,,,,,180,1,114.06,112.62,107.75,85.04,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+S.A. Mostovnikov,M,B,Raw,42.5,40-44,40-49,Open,96.6,100,,,,,,140,150,-152.5,,150,,,,,,150,2,93.76,92.62,88.53,69.86,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+M.V. Barma,M,B,Raw,37.5,35-39,24-39,Open,105,100+,,,,,,165,167.5,170,,170,,,,,,170,3,102.53,101.58,97.00,76.12,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+A.M. Bliner,M,B,Raw,35.5,35-39,24-39,Open,103.4,100+,,,,,,150,170,-175,,170,,,,,,170,2,103.17,102.14,97.53,76.67,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+O.A. Kishko,M,B,Raw,28.5,24-34,24-39,Open,105,100+,,,,,,150,-160,,,150,,,,,,150,4,90.46,89.63,85.59,67.16,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+D.A. Rybakov,M,B,Raw,32.5,24-34,24-39,Open,118.2,100+,,,,,,170,180,-185,,180,,,,,,180,1,103.90,103.86,99.50,76.43,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+V. Gribov,M,B,Raw,33.5,24-34,24-39,Disabled,89.2,,,,,,,122.5,127.5,,,127.5,,,,,,127.5,2,82.82,81.77,78.40,61.75,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+I.E. Chkalov,M,B,Raw,26.5,24-34,24-39,Disabled,72.5,,,,,,,115,117.5,120,,120,,,,,,120,1,88.02,87.60,84.76,64.70,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+V.M. Matsur,M,B,Raw,53.5,50-54,50-59,Masters 50+,113,,,,,,,170,-175,175,,175,,,,,,175,1,102.62,102.17,97.74,75.79,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+M. Velichko,M,B,Raw,18.5,18-19,19-23,Juniors 17-21,63.7,,,,,,,-80,80,85,,85,,,,,,85,3,68.41,68.76,66.93,49.16,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+T. Grubyy,M,B,Raw,16.5,16-17,14-18,Juniors 17-21,79.5,,,,,,,115,120,122.5,,122.5,,,,,,122.5,1,84.78,83.96,80.92,62.91,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+D.A. Kolyuchenko,M,B,Raw,16.5,16-17,14-18,Juniors 17-21,62.7,,,,,,,-80,80,85,,85,,,,,,85,2,69.26,69.70,67.90,49.59,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+M. Salogubov,M,B,Raw,15.5,16-17,14-18,Teen 13-16,69.4,,,,,,,60,65,-70,,65,,,,,,65,1,49.12,49.03,47.54,35.88,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+I.A. Trakhimovich,M,B,Raw,14.5,13-15,14-18,Teen 13-16,68,,,,,,,25,30,35,,35,,,,,,35,2,26.83,26.83,26.03,19.53,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+E.S. Denisenko,F,S,Wraps,28.5,24-34,24-39,Open,67.3,,70,80,85,,85,,,,,,,,,,,85,1,87.90,86.94,76.70,,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+O.A. Kishko,M,S,Wraps,28.5,24-34,24-39,Open,105,,180,,,,180,,,,,,,,,,,180,2,108.56,107.56,102.71,,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+V. Sinyak,M,S,Wraps,36.5,35-39,24-39,Open,106.1,,120,,,,120,,,,,,,,,,,120,3,72.07,71.45,68.23,,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+A.A. Chernysh,M,S,Wraps,21.5,20-23,19-23,Open,89.5,,240,,,,240,,,,,,,,,,,240,1,155.62,153.65,147.30,,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+A.E. Arseniy,F,D,Raw,21.5,20-23,19-23,Open,60.8,,,,,,,,,,,,120,130,-135,,130,130,2,142.92,143.46,126.73,,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+Marina Gorbachyova,F,D,Raw,35.5,35-39,24-39,Open,52,,,,,,,,,,,,150,160,-170,,160,160,1,195.02,199.46,176.81,,,Belarus,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+O.A. Kishko,M,D,Raw,28.5,24-34,24-39,Open,105,,,,,,,,,,,,200,-210,,,200,200,3,120.62,119.51,114.12,,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+A. Kulik,M,D,Raw,26.5,24-34,24-39,Open,96.5,,,,,,,,,,,,300,320,,,320,320,1,200.11,197.67,188.95,,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+V.Yu. Korostelev,M,D,Raw,26.5,24-34,24-39,Open,88.3,,,,,,,,,,,,210,220,-227.5,,220,220,2,143.64,141.84,136.06,,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+M. Velichko,M,D,Raw,18.5,18-19,19-23,Juniors 17-21,63.7,,,,,,,,,,,,150,160,165,,165,165,1,132.79,133.47,129.92,,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+T. Grubyy,M,D,Raw,16.5,16-17,14-18,Juniors 17-21,79.5,,,,,,,,,,,,170,180,190,,190,190,2,131.50,130.23,125.51,,,,,GSF-Belarus,,2019-06-22,Belarus,,Luninets,Bison Power Cup,Yes
+A. Killin,M,BD,Raw,,,,Open,67.5,67.5,,,,,,,,,,122.5,,,,,165,287.5,1,221.59,221.67,215.17,,,USA,NC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+A. Heiskanen,M,BD,Raw,,,,Open,75,75,,,,,,,,,,120,,,,,202.5,322.5,1,231.37,229.80,222.04,,,Finland,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. Vezina,M,BD,Raw,,,,Open,75,75,,,,,,,,,,105,,,,,165,270,2,193.70,192.39,185.90,,,Canada,QC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+D. Moreau,M,BD,Raw,,,,Open,82.5,82.5,,,,,,,,,,150,,,,,272.5,422.5,1,286.20,283.04,272.34,,,Canada,QC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+P. Anderle,M,BD,Raw,,,,Open,82.5,82.5,,,,,,,,,,130,,,,,252.5,382.5,2,259.10,256.24,246.55,,,Czechia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+A. Krupp,M,BD,Raw,,,,Open,82.5,82.5,,,,,,,,,,150,,,,,230,380,3,257.41,254.56,244.94,,,Estonia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. A. Balderrama,M,BD,Raw,,,,Open,90,90,,,,,,,,,,167.5,,,,,242.5,410,1,265.11,261.74,250.85,,,USA,OK,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+L. Berkes,M,BD,Raw,,,,Open,90,90,,,,,,,,,,135,,,,,255,390,2,252.17,248.97,238.62,,,Hungary,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. Vall,M,BD,Raw,,,,Open,90,90,,,,,,,,,,160,,,,,215,375,3,242.48,239.40,229.44,,,Estonia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. F. Balderrama,M,BD,Raw,,,,Open,100,100,,,,,,,,,,177.5,,,,,277.5,455,1,280.06,276.91,264.48,,,USA,OK,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. Barrett,M,BD,Raw,,16-17,14-18,Open,100,100,,,,,,,,,,195,,,,,252.5,447.5,2,275.44,272.34,260.12,,,USA,MD,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+L. Camponi,M,BD,Raw,,,,Open,100,100,,,,,,,,,,175,,,,,200,375,3,230.82,228.22,217.98,,,Brazil,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+A. Ovechkin,M,BD,Raw,,,,Open,110,110,,,,,,,,,,215,,,,,330,545,1,322.79,320.73,306.54,,,Russia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+A. Pelletier,M,BD,Raw,,,,Open,110,110,,,,,,,,,,177.5,,,,,280,457.5,2,270.96,269.24,257.32,,,Canada,QC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+A. Stanik,M,BD,Raw,,,,Open,110,110,,,,,,,,,,177.5,,,,,260,437.5,3,259.12,257.47,246.07,,,Germany,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+M. Geiger,M,BD,Raw,,,,Open,125,125,,,,,,,,,,202.5,,,,,295,497.5,1,281.96,283.50,271.30,,,USA,IL,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Pinc,M,BD,Raw,,,,Open,125,125,,,,,,,,,,180,,,,,290,470,2,266.38,267.83,256.30,,,Czechia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+P. Aan,M,BD,Raw,,,,Open,125,125,,,,,,,,,,187.5,,,,,262.5,450,3,255.04,256.43,245.40,,,Estonia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. McManmon,M,BD,Raw,,,,Open,,125+,,,,,,,,,,142.5,,,,,275,417.5,1,,,,,,USA,MA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+E. Lessard,M,BD,Raw,,,,Senior A,75,75,,,,,,,,,,132.5,,,,,227.5,360,1,258.27,256.52,247.86,,,Canada,QC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+H. Carlsson,M,BD,Raw,,,,Senior A,75,75,,,,,,,,,,145,,,,,200,345,2,247.51,245.83,237.53,,,Sweden,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+M. Vaisanen,M,BD,Raw,,,,Senior A,75,75,,,,,,,,,,130,,,,,197.5,327.5,3,234.96,233.36,225.49,,,Finland,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. Borgarsson,M,BD,Raw,,,,Senior A,82.5,82.5,,,,,,,,,,160,,,,,252.5,412.5,1,279.42,276.34,265.89,,,Iceland,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+D. Manyaykin,M,BD,Raw,,,,Senior A,82.5,82.5,,,,,,,,,,155,,,,,235,390,2,264.18,261.26,251.39,,,Russia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+D. Jasovsky,M,BD,Raw,,,,Senior A,82.5,82.5,,,,,,,,,,160,,,,,227.5,387.5,3,262.49,259.59,249.78,,,Czechia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+C. Martinez V,M,BD,Raw,,,,Senior A,90,90,,,,,,,,,,120,,,,,205,325,1,210.15,207.48,198.85,,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+B. Wawrzynczak,M,BD,Raw,,,,Senior A,90,90,,,,,,,,,,130,,,,,150,280,2,181.05,178.75,171.31,,,Poland,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Becsei,M,BD,Raw,,,,Senior A,100,100,,,,,,,,,,152.5,,,,,240,392.5,1,241.59,238.87,228.15,,,USA,AZ,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. Parviainen,M,BD,Raw,,,,Senior A,100,100,,,,,,,,,,130,,,,,200,330,2,203.12,200.83,191.82,,,Canada,ON,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Hall,M,BD,Raw,,,,Senior A,110,110,,,,,,,,,,170,,,,,295,465,1,275.40,273.65,261.54,,,Canada,AB,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+A. Zarubin,M,BD,Raw,,,,Senior A,110,110,,,,,,,,,,155,,,,,285,440,2,260.60,258.94,247.48,,,Estonia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. Curtin,M,BD,Raw,,,,Senior A,110,110,,,,,,,,,,182.5,,,,,255,437.5,3,259.12,257.47,246.07,,,USA,OH,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+A. Zhandarov,M,BD,Raw,,,,Senior A,125,125,,,,,,,,,,120,,,,,200,320,1,181.36,182.35,174.50,,,Kazakhstan,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. Nurgaliyev,M,BD,Raw,,,,Senior B,75,75,,,,,,,,,,130,,,,,200,330,1,236.75,235.14,227.21,,,Kazakhstan,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. Henrick,M,BD,Raw,,,,Senior B,75,75,,,,,,,,,,117.5,,,,,150,267.5,2,191.91,190.61,184.17,,,USA,PA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+M. Segui B,M,BD,Raw,,,,Senior B,82.5,82.5,,,,,,,,,,120,,,,,170,290,1,196.44,194.27,186.93,,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. Sedlacek,M,BD,Raw,,,,Senior B,90,90,,,,,,,,,,157.5,,,,,245,402.5,1,260.26,256.95,246.26,,,Czechia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. Noel,M,BD,Raw,,,,Senior B,90,90,,,,,,,,,,140,,,,,232.5,372.5,2,240.86,237.80,227.91,,,Canada,QC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+U. Treier,M,BD,Raw,,,,Senior B,90,90,,,,,,,,,,112.5,,,,,240,352.5,3,227.93,225.03,215.67,,,Estonia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+G. Miller,M,BD,Raw,,,,Senior B,100,100,,,,,,,,,,170,,,,,262.5,432.5,1,266.21,263.21,251.40,,,Canada,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+G. Stewart,M,BD,Raw,,,,Senior B,100,100,,,,,,,,,,162.5,,,,,245,407.5,2,250.82,248.00,236.87,,,USA,IN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Gagnon,M,BD,Raw,,,,Senior B,100,100,,,,,,,,,,155,,,,,250,405,3,249.28,246.48,235.41,,,Canada,QC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+G. Cole,M,BD,Raw,,,,Senior B,110,110,,,,,,,,,,200,,,,,300,500,1,296.13,294.25,281.23,,,USA,IA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+Bert Eyler,M,BD,Raw,,,,Senior B,110,110,,,,,,,,,,160,,,,,270,430,2,254.67,253.05,241.85,,,USA,MD,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+U. Heinrich,M,BD,Raw,,,,Senior B,110,110,,,,,,,,,,187.5,,,,,235,422.5,3,250.23,248.64,237.64,,,Germany,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+L. Lesage,M,BD,Raw,,,,Senior B,125,125,,,,,,,,,,180,,,,,290,470,1,266.38,267.83,256.30,,,Canada,QC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+P. Leandro,M,BD,Raw,,,,Senior B,125,125,,,,,,,,,,170,,,,,300,470,2,266.38,267.83,256.30,,,Portugal,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. Mujagic,M,BD,Raw,,,,Masters A,56,56,,,,,,,,,,62.5,,,,,120,182.5,1,163.35,166.14,162.89,,,Croatia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+F. Wunderlich,M,BD,Raw,,,,Masters A,60,60,,,,,,,,,,90,,,,,140,230,1,194.13,196.16,191.55,,,Germany,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+P. Martinez F,M,BD,Raw,,,,Masters A,67.5,67.5,,,,,,,,,,87.5,,,,,145,232.5,1,179.20,179.26,174.01,,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+L. Cipa,M,BD,Raw,,,,Masters A,67.5,67.5,,,,,,,,,,75,,,,,140,215,2,165.71,165.77,160.91,,,Czechia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Laing,M,BD,Raw,,,,Masters A,75,75,,,,,,,,,,157.5,,,,,220,377.5,1,270.83,268.99,259.91,,,UK,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+A. Hallahan,M,BD,Raw,,,,Masters A,75,75,,,,,,,,,,130,,,,,200,330,2,236.75,235.14,227.21,,,UK,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+I. Hietanen,M,BD,Raw,,,,Masters A,75,75,,,,,,,,,,120,,,,,182.5,302.5,3,217.02,215.55,208.27,,,Finland,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+M. Durocher,M,BD,Raw,,,,Masters A,82.5,82.5,,,,,,,,,,127.5,,,,,160,287.5,1,194.75,192.60,185.32,,,Canada,QC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Black,M,BD,Raw,,35-39,24-39,Masters A,90,90,,,,,,,,,,150,,,,,230,380,1,245.71,242.59,232.50,,,USA,GA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+W. Goudey,M,BD,Raw,,,,Masters A,90,90,,,,,,,,,,147.5,,,,,230,377.5,2,244.09,240.99,230.97,,,USA,MA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+E. Teder,M,BD,Raw,,,,Masters A,90,90,,,,,,,,,,130,,,,,220,350,3,226.31,223.44,214.14,,,Estonia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Pohl,M,BD,Raw,,,,Masters A,100,100,,,,,,,,,,197.5,,,,,250,447.5,1,275.44,272.34,260.12,,,Germany,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+G. Frames,M,BD,Raw,,,,Masters A,100,100,,,,,,,,,,160,,,,,230,390,2,240.05,237.35,226.70,,,USA,OH,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+E. Ercan,M,BD,Raw,,,,Masters A,100,100,,,,,,,,,,117.5,,,,,252.5,370,3,227.74,225.18,215.07,,,USA,NJ,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. Simonds,M,BD,Raw,,,,Masters A,110,110,,,,,,,,,,172.5,,,,,227.5,400,1,236.91,235.40,224.98,,,USA,OK,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+G. Bellinger,M,BD,Raw,,,,Masters A,110,110,,,,,,,,,,152.5,,,,,235,387.5,2,229.50,228.04,217.95,,,UK,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+W. Forchion,M,BD,Raw,,,,Masters A,110,110,,,,,,,,,,150,,,,,180,330,3,195.45,194.20,185.61,,,USA,MD,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+W. Watts,M,BD,Raw,,,,Masters A,,125+,,,,,,,,,,207.5,,,,,150,357.5,1,,,,,,USA,GA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+M. Lopez G,M,BD,Raw,,,,Masters B,67.5,67.5,,,,,,,,,,80,,,,,110,190,1,146.44,146.49,142.20,,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Rey,M,BD,Raw,,,,Masters B,75,75,,,,,,,,,,130,,,,,220,350,1,251.10,249.40,240.98,,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Cremades C,M,BD,Raw,,,,Masters B,82.5,82.5,,,,,,,,,,90,,,,,200,290,1,196.44,194.27,186.93,,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. Kjensli,M,BD,Raw,,,,Masters B,90,90,,,,,,,,,,140,,,,,220,360,1,232.78,229.82,220.26,,,Norway,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+A. Moredo M,M,BD,Raw,,,,Masters B,100,100,,,,,,,,,,170,,,,,210,380,1,233.90,231.26,220.88,,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Sedeno M,M,BD,Raw,,,,Masters B,100,100,,,,,,,,,,142.5,,,,,195,337.5,2,207.74,205.40,196.18,,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+F. Grotzinger,M,BD,Raw,,,,Masters B,100,100,,,,,,,,,,135,,,,,200,335,3,206.20,203.88,194.73,,,Germany,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+W. Mosher,M,BD,Raw,,,40-49,Masters B,110,110,,,,,,,,,,130,,,,,230,360,1,213.22,211.86,202.48,,,USA,MI,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. Suutari,M,BD,Raw,,,,Masters B,125,125,,,,,,,,,,190,,,,,265,455,1,257.87,259.28,248.12,,,Canada,ON,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+G. Carter,M,BD,Raw,0.5,,,Masters B,125,125,,,,,,,,,,145,,,,,185,330,2,187.03,188.05,179.96,,,USA,MN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+G. Karlsson,M,BD,Raw,,,,Masters B,,125+,,,,,,,,,,110,,,,,170,280,1,,,,,,Sweden,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+M. Tanaka,M,BD,Raw,,,,Grandmasters A,67.5,67.5,,,,,,,,,,105,,,,,140,245,1,188.83,188.90,183.36,,,Japan,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Lintner,M,BD,Raw,,,,Grandmasters A,75,75,,,,,,,,,,137.5,,,,,112.5,250,1,179.36,178.14,172.13,,,USA,IN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+E. Harris,M,BD,Raw,,,,Grandmasters A,75,75,,,,,,,,,,77.5,,,,,107.5,185,2,132.72,131.82,127.37,,,USA,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+H. Greenidge,M,BD,Raw,,,,Grandmasters A,82.5,82.5,,,,,,,,,,170,,,,,220,390,1,264.18,261.26,251.39,,,Canada,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+P. Marquis,M,BD,Raw,,,,Grandmasters A,82.5,82.5,,,,,,,,,,127.5,,,,,147.5,275,2,186.28,184.22,177.26,,,Canada,ON,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Presta,M,BD,Raw,,,,Grandmasters A,90,90,,,,,,,,,,125,,,,,185,310,1,200.45,197.90,189.67,,,USA,NY,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+M. Musto,M,BD,Raw,,,,Grandmasters A,100,100,,,,,,,,,,175,,,,,287.5,462.5,1,284.68,281.47,268.84,,,USA,CA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+C. May,M,BD,Raw,,,,Grandmasters A,100,100,,,,,,,,,,155,,,,,182.5,337.5,2,207.74,205.40,196.18,,,USA,IN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+A. Rey,M,BD,Raw,,,,Grandmasters A,110,110,,,,,,,,,,110,,,,,210,320,1,189.53,188.32,179.98,,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+G. Black,M,BD,Raw,,,,Grandmasters A,125,125,,,,,,,,,,182.5,,,,,237.5,420,1,238.04,239.33,229.04,,,USA,MD,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Wetenhall,M,BD,Raw,,,,Grandmasters A,,125+,,,,,,,,,,162.5,,,,,200,362.5,1,,,,,,USA,OH,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Steventon,M,BD,Raw,,,,Grandmasters A,,125+,,,,,,,,,,70,,,,,170,240,2,,,,,,UK,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. Yoshida,M,BD,Raw,,,,Grandmasters B,75,75,,,,,,,,,,100,,,,,140,240,1,172.18,171.01,165.24,,,Japan,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+G. Mullendore,M,BD,Raw,,,,Grandmasters B,75,75,,,,,,,,,,95,,,,,120,215,2,154.25,153.20,148.03,,,USA,CA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+B. Desjarlais,M,BD,Raw,,,,Grandmasters B,82.5,82.5,,,,,,,,,,147.5,,,,,185,332.5,1,225.23,222.74,214.32,,,Canada,SK,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Christiansen,M,BD,Raw,,,,Grandmasters B,82.5,82.5,,,,,,,,,,135,,,,,180,315,2,213.38,211.02,203.04,,,Norway,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+John Killin,M,BD,Raw,,,,Grandmasters B,82.5,82.5,,,,,,,,,,97.5,,,,,205,302.5,3,204.91,202.65,194.99,,,USA,CA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Alexander,M,BD,Raw,,24-34,,Grandmasters B,90,90,,,,,,,,,,160,,,,,190,350,1,226.31,223.44,214.14,,,USA,WA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Danburg,M,BD,Raw,,,,Grandmasters B,90,90,,,,,,,,,,110,,,,,190,300,2,193.98,191.52,183.55,,,USA,CO,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. Ribble,M,BD,Raw,,,,Grandmasters B,100,100,,,,,,,,,,132.5,,,,,175,307.5,1,189.27,187.14,178.74,,,USA,TX,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+W. Andrews,M,BD,Raw,,,,Grandmasters B,125,125,,,,,,,,,,65,,,,,127.5,192.5,1,109.10,109.70,104.98,,,USA,NH,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Petersen,M,BD,Raw,,,,Grandmasters C,90,90,,,,,,,,,,95,,,,,120,215,1,139.02,137.25,131.55,,,Germany,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+T. Flannery,M,BD,Raw,,,,Grandmasters C,100,100,,,,,,,,,,115,,,,,205,320,1,196.97,194.75,186.01,,,Ireland,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Morgan,M,BD,Raw,,,,Grandmasters C,100,100,,,,,,,,,,102.5,,,,,117.5,220,2,135.41,133.89,127.88,,,USA,IN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Berendsen,M,BD,Raw,,60-64,60-69,Grandmasters C,110,110,,,,,,,,,,110,,,,,185,295,1,174.72,173.61,165.92,,,USA,CA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+T. Murguia,M,BD,Raw,,,,Grandmasters D,75,75,,,,,,,,,,92.5,,,,,140,232.5,1,166.80,165.67,160.08,,,USA,FL,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+B. Ballas,M,BD,Raw,,,,Grandmasters D,82.5,82.5,,,,,,,,,,70,,,,,140,210,1,142.25,140.68,135.36,,,USA,FL,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+C. Johnson,M,BD,Raw,,,,Grandmasters D,82.5,82.5,,,,,,,,,,92.5,,,,,102.5,195,2,132.09,130.63,125.69,,,USA,CA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+G. LaBelle,M,BD,Raw,,,,Grandmasters D,90,90,,,,,,,,,,95,,,,,165,260,1,168.12,165.98,159.08,,,USA,MN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. Colella,M,BD,Raw,72.5,70-74,70-999,Grandmasters D,90,90,,,,,,,,,,97.5,,,,,125,222.5,2,143.87,142.04,136.13,,,USA,CA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Boucher,M,BD,Raw,,,70-999,Grandmasters D,110,110,,,,,,,,,,107.5,,,,,120,227.5,1,134.74,133.88,127.96,,,Belgium,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+M. Opfer,F,BD,Raw,,,,Open,60,60,,,,,,,,,,42.5,,,,,100,142.5,1,157.97,158.87,140.37,,,Germany,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Draper,F,BD,Raw,,,,Open,82.5,82.5,,,,,,,,,,115,,,,,160,275,1,255.24,247.49,216.64,,,USA,CO,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+L. Matonina,F,BD,Raw,,,,Open,,90+,,,,,,,,,,80,,,,,192.5,272.5,1,,,,,,Estonia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Summers,F,BD,Raw,,,,Senior,60,60,,,,,,,,,,37.5,,,,,60,97.5,1,108.08,108.70,96.04,,,UK,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+M. Young,F,BD,Raw,,,,Senior,67.5,67.5,,,,,,,,,,85,,,,,127.5,212.5,1,219.38,216.88,191.32,,,USA,KY,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. Torrey,F,BD,Raw,,,,Senior,67.5,67.5,,,,,,,,,,60,,,,,97.5,157.5,2,162.60,160.75,141.80,,,USA,KY,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. Heymann,F,BD,Raw,,,,Senior,67.5,67.5,,,,,,,,,,50,,,,,105,155,3,160.02,158.20,139.55,,,Germany,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+E. Robinson,F,BD,Raw,,,,Senior,82.5,82.5,,,,,,,,,,82.5,,,,,150,232.5,1,215.79,209.24,183.16,,,USA,IL,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+C. Hill,F,BD,Raw,,,,Senior,90,90,,,,,,,,,,77.5,,,,,110,187.5,1,167.16,162.01,140.82,,,USA,OH,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+B. Stafford,F,BD,Raw,,,,Senior,90,90,,,,,,,,,,57.5,,,,,110,167.5,2,149.33,144.73,125.80,,,Canada,QC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. Innerhofer,F,BD,Raw,,,,Masters,60,60,,,,,,,,,,77.5,,,,,80,157.5,1,174.60,175.59,155.15,,,Austria,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. Cunat,F,BD,Raw,,,,Masters,67.5,67.5,,,,,,,,,,70,,,,,100,170,1,175.51,173.51,153.06,,,Austria,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+C. Baycock,F,BD,Raw,,,,Masters,67.5,67.5,,,,,,,,,,40,,,,,60,100,2,103.24,102.06,90.03,,,UK,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+T. Reed,F,BD,Raw,,,,Masters,75,75,,,,,,,,,,75,,,,,142.5,217.5,1,211.84,206.76,181.88,,,USA,CA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+C. Everett,F,BD,Raw,,,,Masters,82.5,82.5,,,,,,,,,,55,,,,,92.5,147.5,1,136.90,132.75,116.20,,,USA,MD,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. Pincott,F,BD,Raw,,,,Masters,,90+,,,,,,,,,,50,,,,,110,160,1,,,,,,UK,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+D. Forrest,F,BD,Raw,,,,Grandmasters,,90+,,,,,,,,,,65,,,,,122.5,187.5,1,,,,,,USA,IN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. Okawa,M,B,Raw,,,,Open,60,60,,,,,,,,,,100,,,,,,100,1,84.40,85.29,83.28,59.78,,Japan,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+A. Killin,M,B,Raw,,,,Open,67.5,67.5,,,,,,,,,,127.5,,,,,,127.5,1,98.27,98.30,95.42,71.44,,USA,NC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Berna L #2,M,B,Raw,,,,Open,67.5,67.5,,,,,,,,,,125,,,,,,125,2,96.34,96.38,93.55,70.04,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Quesada L,M,B,Raw,,,,Open,67.5,67.5,,,,,,,,,,95,,,,,,95,3,73.22,73.25,71.10,53.23,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. Tetreault,M,B,Raw,,,,Open,75,75,,,,,,,,,,120,,,,,,120,1,86.09,85.51,82.62,63.54,,Canada,QC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+N. Calvo G,M,B,Raw,,,,Open,75,75,,,,,,,,,,110,,,,,,110,2,78.92,78.38,75.74,58.25,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Laroque,M,B,Raw,,,,Open,82.5,82.5,,,,,,,,,,160,,,,,,160,1,108.38,107.19,103.13,80.62,,Canada,ON,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. Alain,M,B,Raw,,,,Open,82.5,82.5,,,,,,,,,,152.5,,,,,,152.5,2,103.30,102.16,98.30,76.84,,Canada,QC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. Giroux,M,B,Raw,,,,Open,82.5,82.5,,,,,,,,,,142.5,,,,,,142.5,3,96.53,95.46,91.85,71.80,,Canada,QC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+T. Selvia,M,B,Raw,,,,Open,90,90,,,,,,,,,,175,,,,,,175,1,113.16,111.72,107.07,84.38,,USA,IN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+L. Gonzalez L,M,B,Raw,,,,Open,90,90,,,,,,,,,,170,,,,,,170,2,109.92,108.53,104.01,81.97,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+W. Herkelman,M,B,Raw,,,,Open,90,90,,,,,,,,,,162.5,,,,,,162.5,3,105.07,103.74,99.42,78.35,,USA,IA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. Barrett,M,B,Raw,,16-17,14-18,Open,100,100,,,,,,,,,,190,,,,,,190,1,116.95,115.63,110.44,87.04,,USA,MD,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+L. Camponi,M,B,Raw,,,,Open,100,100,,,,,,,,,,170,,,,,,170,2,104.64,103.46,98.82,77.88,,Brazil,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+A. Ovechkin,M,B,Raw,,,,Open,110,110,,,,,,,,,,220,,,,,,220,1,130.30,129.47,123.74,96.44,,Russia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Martinie,M,B,Raw,,,,Open,110,110,,,,,,,,,,192.5,,,,,,192.5,2,114.01,113.28,108.27,84.38,,USA,AZ,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Pinc,M,B,Raw,,,,Open,110,110,,,,,,,,,,177.5,,,,,,177.5,3,105.13,104.46,99.84,77.81,,Czechia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+P. Aan,M,B,Raw,,,,Open,125,125,,,,,,,,,,185,,,,,,185,1,104.85,105.42,100.89,76.71,,Estonia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+A. Stanik,M,B,Raw,,,,Open,125,125,,,,,,,,,,175,,,,,,175,2,99.18,99.72,95.43,72.57,,Germany,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+M. Grant,M,B,Raw,,,,Open,,125+,,,,,,,,,,250,,,,,,250,1,,,,,,USA,KY,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. Mujagic,M,B,Raw,,,,Senior A,56,56,,,,,,,,,,62.5,,,,,,62.5,1,55.94,56.90,55.78,38.83,,Croatia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+H. Molina G,M,B,Raw,,,,Senior A,67.5,67.5,,,,,,,,,,125,,,,,,125,1,96.34,96.38,93.55,70.04,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Lo,M,B,Raw,,,,Senior A,67.5,67.5,,,,,,,,,,97.5,,,,,,97.5,2,75.15,75.17,72.97,54.63,,Canada,BC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+F. Hernandez F,M,B,Raw,,,,Senior A,67.5,67.5,,,,,,,,,,70,,,,,,70,3,53.95,53.97,52.39,39.22,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+D. Pasenow,M,B,Raw,,,,Senior A,75,75,,,,,,,,,,155,,,,,,155,1,111.20,110.45,106.72,82.08,,Germany,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Mikolajewski,M,B,Raw,,,,Senior A,75,75,,,,,,,,,,152.5,,,,,,152.5,2,109.41,108.67,105.00,80.75,,Poland,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+H. Carlsson,M,B,Raw,,,,Senior A,75,75,,,,,,,,,,145,,,,,,145,3,104.03,103.32,99.83,76.78,,Sweden,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+D. Jasovsky,M,B,Raw,,,,Senior A,82.5,82.5,,,,,,,,,,152.5,,,,,,152.5,1,103.30,102.16,98.30,76.84,,Czechia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+F. Sirois,M,B,Raw,,,,Senior A,82.5,82.5,,,,,,,,,,130,,,,,,130,2,88.06,87.09,83.80,65.50,,Canada,QC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+G. Lepage,M,B,Raw,,,,Senior A,90,90,,,,,,,,,,162.5,,,,,,162.5,1,105.07,103.74,99.42,78.35,,Canada,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. Hemsing,M,B,Raw,,,,Senior A,90,90,,,,,,,,,,160,,,,,,160,2,103.46,102.14,97.89,77.15,,Canada,SK,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+M. Pratt,M,B,Raw,,,,Senior A,90,90,,,,,,,,,,147.5,,,,,,147.5,3,95.37,94.16,90.25,71.12,,USA,MO,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+D. Neville,M,B,Raw,,,,Senior A,100,100,,,,,,,,,,190,,,,,,190,1,116.95,115.63,110.44,87.04,,Canada,ON,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Johnson,M,B,Raw,,,,Senior A,100,100,,,,,,,,,,182.5,,,,,,182.5,2,112.33,111.07,106.08,83.61,,USA,OK,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Becsei,M,B,Raw,,,,Senior A,100,100,,,,,,,,,,150,,,,,,150,3,92.33,91.29,87.19,68.72,,USA,AZ,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. MacNeil,M,B,Raw,,,,Senior A,110,110,,,,,,,,,,187.5,,,,,,187.5,1,111.05,110.34,105.46,82.19,,Canada,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Johnson Jr,M,B,Raw,,,,Senior A,110,110,,,,,,,,,,180,,,,,,180,2,106.61,105.93,101.24,78.90,,USA,MD,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+C. Payne,M,B,Raw,,,,Senior A,110,110,,,,,,,,,,177.5,,,,,,177.5,3,105.13,104.46,99.84,77.81,,USA,IA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Pickering,M,B,Raw,,,,Senior A,125,125,,,,,,,,,,192.5,,,,,,192.5,1,109.10,109.70,104.98,79.82,,USA,MO,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+A. Zhandarov,M,B,Raw,,,,Senior A,,125+,,,,,,,,,,160,,,,,,160,1,,,,,,Kazakhstan,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+Tony Burrello,M,B,Raw,35,35-39,24-39,Senior B,67.5,67.5,,,,,,,,,,140,,,,,,140,1,107.90,107.94,104.78,78.44,,USA,IN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+T. Fukushima,M,B,Raw,,,,Senior B,67.5,67.5,,,,,,,,,,90,,,,,,90,2,69.37,69.39,67.36,50.43,,Japan,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+L. Caravantes F,M,B,Raw,,,,Senior B,67.5,67.5,,,,,,,,,,90,,,,,,90,3,69.37,69.39,67.36,50.43,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+T. McManigal,M,B,Raw,,,,Senior B,75,75,,,,,,,,,,135,,,,,,135,1,96.85,96.20,92.95,71.49,,USA,IL,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+Chris LiVolsi,M,B,Raw,35,35-39,24-39,Senior B,75,75,,,,,,,,,,127.5,,,,,,127.5,2,91.47,90.85,87.78,67.51,,USA,NY,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. Henrick,M,B,Raw,,,,Senior B,75,75,,,,,,,,,,125,,,,,,125,3,89.68,89.07,86.06,66.19,,USA,PA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Dery,M,B,Raw,,,,Senior B,82.5,82.5,,,,,,,,,,170,,,,,,170,1,115.16,113.88,109.58,85.65,,Canada,QC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. Ogura,M,B,Raw,,,,Senior B,82.5,82.5,,,,,,,,,,162.5,,,,,,162.5,2,110.08,108.86,104.74,81.88,,Japan,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+V. Golding,M,B,Raw,,,,Senior B,82.5,82.5,,,,,,,,,,160,,,,,,160,3,108.38,107.19,103.13,80.62,,UK,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+N. Wagner,M,B,Raw,,,,Senior B,90,90,,,,,,,,,,162.5,,,,,,162.5,1,105.07,103.74,99.42,78.35,,Germany,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+A. Adrian,M,B,Raw,,,,Senior B,90,90,,,,,,,,,,160,,,,,,160,2,103.46,102.14,97.89,77.15,,USA,WI,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. Sedlacek,M,B,Raw,,,,Senior B,90,90,,,,,,,,,,160,,,,,,160,3,103.46,102.14,97.89,77.15,,Czechia,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+G. Stewart,M,B,Raw,,,,Senior B,100,100,,,,,,,,,,165,,,,,,165,1,101.56,100.42,95.91,75.59,,USA,IN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+T. Long,M,B,Raw,,,,Senior B,100,100,,,,,,,,,,162.5,,,,,,162.5,2,100.02,98.90,94.46,74.44,,USA,KS,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+D. Rolon,M,B,Raw,,,,Senior B,100,100,,,,,,,,,,152.5,,,,,,152.5,3,93.87,92.81,88.64,69.86,,USA,NY,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+G. Cole,M,B,Raw,,,,Senior B,110,110,,,,,,,,,,197.5,,,,,,197.5,1,116.97,116.23,111.08,86.57,,USA,IA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+U. Heinrich,M,B,Raw,,,,Senior B,110,110,,,,,,,,,,187.5,,,,,,187.5,2,111.05,110.34,105.46,82.19,,Germany,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+B. Harris Sr,M,B,Raw,,,,Senior B,110,110,,,,,,,,,,177.5,,,,,,177.5,3,105.13,104.46,99.84,77.81,,USA,KY,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+W. McDonough,M,B,Raw,,,,Senior B,125,125,,,,,,,,,,215,,,,,,215,1,121.85,122.52,117.25,89.15,,USA,MO,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R.W. Lincoln,M,B,Raw,,,,Senior B,125,125,,,,,,,,,,205,,,,,,205,2,116.19,116.82,111.79,85.01,,USA,CA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. Lightner,M,B,Raw,,,,Senior B,125,125,,,,,,,,,,185,,,,,,185,3,104.85,105.42,100.89,76.71,,USA,PA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+D. Clark,M,B,Raw,,,,Senior B,,125+,,,,,,,,,,150,,,,,,150,1,,,,,,USA,IN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+F. Wunderlich,M,B,Raw,,,,Masters A,60,60,,,,,,,,,,95,,,,,,95,1,80.18,81.02,79.12,56.79,,Germany,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+P. Beaumaster,M,B,Raw,,,,Masters A,75,75,,,,,,,,,,160,,,,,,160,1,114.79,114.01,110.16,84.72,,USA,MN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Laing,M,B,Raw,,,,Masters A,75,75,,,,,,,,,,155,,,,,,155,2,111.20,110.45,106.72,82.08,,UK,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+F. Garcia D,M,B,Raw,,,,Masters A,75,75,,,,,,,,,,140,,,,,,140,3,100.44,99.76,96.39,74.13,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+A. Goodrich,M,B,Raw,,,,Masters A,82.5,82.5,,,,,,,,,,160,,,,,,160,1,108.38,107.19,103.13,80.62,,USA,IL,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+M. Mack,M,B,Raw,,,,Masters A,82.5,82.5,,,,,,,,,,125,,,,,,125,2,84.67,83.74,80.57,62.98,,USA,IN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+G. Bouchard,M,B,Raw,,,,Masters A,82.5,82.5,,,,,,,,,,102.5,,,,,,102.5,3,69.43,68.67,66.07,51.64,,Canada,QC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+F. Rodriguez,M,B,Raw,39.5,35-39,,Masters A,90,90,,,,,,,,,,160,,,,,,160,1,103.46,102.14,97.89,77.15,,USA,CA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+B. Vigeant,M,B,Raw,,,,Masters A,90,90,,,,,,,,,,137.5,,,,,,137.5,2,88.91,87.78,84.13,66.30,,Canada,QC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Duran,M,B,Raw,,,,Masters A,90,90,,,,,,,,,,135,,,,,,135,3,87.29,86.18,82.60,65.09,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Pohl,M,B,Raw,,,,Masters A,100,100,,,,,,,,,,192.5,,,,,,192.5,1,118.49,117.15,111.89,88.19,,Germany,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Eliassaint,M,B,Raw,,,,Masters A,100,100,,,,,,,,,,170,,,,,,170,2,104.64,103.46,98.82,77.88,,Canada,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+G. Frames,M,B,Raw,,,,Masters A,100,100,,,,,,,,,,162.5,,,,,,162.5,3,100.02,98.90,94.46,74.44,,USA,OH,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+T. Rudloff,M,B,Raw,,,,Masters A,110,110,,,,,,,,,,192.5,,,,,,192.5,1,114.01,113.28,108.27,84.38,,Germany,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. Simonds,M,B,Raw,,,,Masters A,110,110,,,,,,,,,,172.5,,,,,,172.5,2,102.17,101.52,97.02,75.61,,USA,OK,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+G. Bellinger,M,B,Raw,,,,Masters A,110,110,,,,,,,,,,155,,,,,,155,3,91.80,91.22,87.18,67.94,,UK,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+L. Holmes,M,B,Raw,,,,Masters A,125,125,,,,,,,,,,227.5,,,,,,227.5,1,128.94,129.64,124.06,94.34,,USA,IA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. McKelvey,M,B,Raw,,,,Masters A,125,125,,,,,,,,,,160,,,,,,160,2,90.68,91.18,87.25,66.35,,USA,MO,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+W. Watts,M,B,Raw,,,,Masters A,,125+,,,,,,,,,,215,,,,,,215,1,,,,,,USA,GA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+C. Szafnicki,M,B,Raw,,,,Masters A,,125+,,,,,,,,,,130,,,,,,130,2,,,,,,Poland,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+M. Ingwerson,M,B,Raw,,,,Masters B,75,75,,,,,,,,,,150,,,,,,150,1,107.61,106.88,103.28,79.43,,USA,CA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Rey,M,B,Raw,,,,Masters B,75,75,,,,,,,,,,125,,,,,,125,2,89.68,89.07,86.06,66.19,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+G. Ettl,M,B,Raw,,,,Masters B,75,75,,,,,,,,,,112.5,,,,,,112.5,3,80.71,80.16,77.46,59.57,,USA,IN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+D. Miklos,M,B,Raw,,,,Masters B,82.5,82.5,,,,,,,,,,130,,,,,,130,1,88.06,87.09,83.80,65.50,,USA,CA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+T. McNamara,M,B,Raw,,,,Masters B,82.5,82.5,,,,,,,,,,112.5,,,,,,112.5,2,76.21,75.36,72.52,56.68,,USA,NY,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Cremades C,M,B,Raw,,,,Masters B,82.5,82.5,,,,,,,,,,85,,,,,,85,3,57.58,56.94,54.79,42.83,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+D. Kimber,M,B,Raw,,,,Masters B,90,90,,,,,,,,,,160,,,,,,160,1,103.46,102.14,97.89,77.15,,Canada,ON,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Megahy,M,B,Raw,,,,Masters B,90,90,,,,,,,,,,150,,,,,,150,2,96.99,95.76,91.78,72.33,,Canada,ON,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+L. Adler,M,B,Raw,,,,Masters B,90,90,,,,,,,,,,147.5,,,,,,147.5,3,95.37,94.16,90.25,71.12,,USA,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+A. Morado M,M,B,Raw,,,,Masters B,100,100,,,,,,,,,,170,,,,,,170,1,104.64,103.46,98.82,77.88,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Sedeno M,M,B,Raw,,,,Masters B,100,100,,,,,,,,,,137.5,,,,,,137.5,2,84.63,83.68,79.92,62.99,,Spain,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+B. Locke,M,B,Raw,,,,Masters B,110,110,,,,,,,,,,160,,,,,,160,1,94.76,94.16,89.99,70.14,,Canada,ON,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. Barrette,M,B,Raw,,,,Masters B,110,110,,,,,,,,,,155,,,,,,155,2,91.80,91.22,87.18,67.94,,Canada,QC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+W. Mosher,M,B,Raw,,,40-49,Masters B,110,110,,,,,,,,,,127.5,,,,,,127.5,3,75.51,75.03,71.71,55.89,,USA,MI,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+M. McFadden,M,B,Raw,,,,Masters B,125,125,,,,,,,,,,182.5,,,,,,182.5,1,103.43,104.00,99.52,75.68,,USA,CT,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Gibson,M,B,Raw,,,,Masters B,125,125,,,,,,,,,,147.5,,,,,,147.5,2,83.60,84.05,80.44,61.16,,USA,MO,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+G. Carter,M,B,Raw,0.5,,,Masters B,125,125,,,,,,,,,,145,,,,,,145,3,82.18,82.63,79.07,60.13,,USA,MN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+M. Tanaka,M,B,Raw,,,,Grandmasters A,67.5,67.5,,,,,,,,,,115,,,,,,115,1,88.64,88.67,86.07,64.44,,Japan,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Lintner,M,B,Raw,,,,Grandmasters A,75,75,,,,,,,,,,132.5,,,,,,132.5,1,95.06,94.41,91.23,70.16,,USA,IN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. Marshall,M,B,Raw,,35-39,24-39,Grandmasters A,75,75,,,,,,,,,,107.5,,,,,,107.5,2,77.12,76.60,74.01,56.92,,USA,NE,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+W. Wilde,M,B,Raw,,,,Grandmasters A,75,75,,,,,,,,,,90,,,,,,90,3,64.57,64.13,61.97,47.66,,Germany,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+H. Greenidge,M,B,Raw,,,,Grandmasters A,82.5,82.5,,,,,,,,,,155,,,,,,155,1,105.00,103.84,99.91,78.10,,Canada,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Presta,M,B,Raw,,,,Grandmasters A,90,90,,,,,,,,,,120,,,,,,120,1,77.59,76.61,73.42,57.86,,USA,NY,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Radloff,M,B,Raw,,,,Grandmasters A,100,100,,,,,,,,,,165,,,,,,165,1,101.56,100.42,95.91,75.59,,USA,WI,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+C. May,M,B,Raw,,,,Grandmasters A,100,100,,,,,,,,,,162.5,,,,,,162.5,2,100.02,98.90,94.46,74.44,,USA,IN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+A. Rask,M,B,Raw,,,,Grandmasters A,100,100,,,,,,,,,,107.5,,,,,,107.5,3,66.17,65.42,62.49,49.25,,USA,MO,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+L. Motta Sr,M,B,Raw,,,50-59,Grandmasters A,110,110,,,,,,,,,,170,,,,,,170,1,100.69,100.04,95.62,74.52,,USA,MA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. McWilliams,M,B,Raw,,,,Grandmasters A,110,110,,,,,,,,,,155,,,,,,155,2,91.80,91.22,87.18,67.94,,USA,IN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+E. Manigold,M,B,Raw,,,,Grandmasters A,110,110,,,,,,,,,,117.5,,,,,,117.5,3,69.59,69.15,66.09,51.51,,Canada,ON,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+G. Black,M,B,Raw,,,,Grandmasters A,125,125,,,,,,,,,,180,,,,,,180,1,102.02,102.57,98.16,74.64,,USA,MD,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. Neal,M,B,Raw,,,,Grandmasters A,125,125,,,,,,,,,,155,,,,,,155,2,87.85,88.33,84.53,64.27,,USA,WA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Wetenhall,M,B,Raw,,,,Grandmasters A,,125+,,,,,,,,,,160,,,,,,160,1,,,,,,USA,OH,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Steventon,M,B,Raw,,,,Grandmasters A,,125+,,,,,,,,,,70,,,,,,70,2,,,,,,UK,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+K. Yoshida,M,B,Raw,,,,Grandmasters B,75,75,,,,,,,,,,100,,,,,,100,1,71.74,71.26,68.85,52.95,,Japan,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+G. Mullendore,M,B,Raw,,,,Grandmasters B,75,75,,,,,,,,,,92.5,,,,,,92.5,2,66.36,65.91,63.69,48.98,,USA,CA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+B. Desjarlais,M,B,Raw,,,,Grandmasters B,82.5,82.5,,,,,,,,,,145,,,,,,145,1,98.22,97.14,93.46,73.06,,Canada,SK,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Christiansen,M,B,Raw,,,,Grandmasters B,82.5,82.5,,,,,,,,,,120,,,,,,120,2,81.29,80.39,77.35,60.46,,Norway,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Alexander,M,B,Raw,,24-34,,Grandmasters B,90,90,,,,,,,,,,162.5,,,,,,162.5,1,105.07,103.74,99.42,78.35,,USA,WA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+T. Frejdeborn,M,B,Raw,,,,Grandmasters B,90,90,,,,,,,,,,127.5,,,,,,127.5,2,82.44,81.40,78.01,61.48,,Sweden,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Danburg,M,B,Raw,,,,Grandmasters B,90,90,,,,,,,,,,105,,,,,,105,3,67.89,67.03,64.24,50.63,,USA,CO,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+S. Ribble,M,B,Raw,,,,Grandmasters B,100,100,,,,,,,,,,135,,,,,,135,1,83.09,82.16,78.47,61.85,,USA,TX,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+M. Lefevre,M,B,Raw,,,,Grandmasters B,110,110,,,,,,,,,,157.5,,,,,,157.5,1,93.28,92.69,88.59,69.04,,France,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+D. Stamper,M,B,Raw,,,,Grandmasters B,110,110,,,,,,,,,,155,,,,,,155,2,91.80,91.22,87.18,67.94,,USA,IN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R.C. Lincoln,M,B,Raw,,,,Grandmasters B,125,125,,,,,,,,,,167.5,,,,,,167.5,1,94.93,95.45,91.34,69.46,,USA,CA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+W. Andrews,M,B,Raw,,,,Grandmasters B,125,125,,,,,,,,,,70,,,,,,70,2,39.67,39.89,38.17,29.03,,USA,NH,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+M. Gosselin,M,B,Raw,,,,Grandmasters B,,125+,,,,,,,,,,175,,,,,,175,1,,,,,,Canada,QC,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Oppolo Sr,M,B,Raw,,,,Grandmasters B,,125+,,,,,,,,,,145,,,,,,145,2,,,,,,USA,IN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+A. Dickinson,M,B,Raw,,,,Grandmasters C,67.5,67.5,,,,,,,,,,75,,,,,,75,1,57.81,57.83,56.13,42.02,,UK,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. French,M,B,Raw,,,,Grandmasters C,82.5,82.5,,,,,,,,,,122.5,,,,,,122.5,1,82.98,82.06,78.96,61.72,,USA,WI,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+J. Petersen,M,B,Raw,,,,Grandmasters C,90,90,,,,,,,,,,97.5,,,,,,97.5,1,63.04,62.24,59.65,47.01,,Germany,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+T. Flannery,M,B,Raw,,,,Grandmasters C,100,100,,,,,,,,,,115,,,,,,115,1,70.78,69.99,66.85,52.68,,Ireland,,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Morgan,M,B,Raw,,,,Grandmasters C,100,100,,,,,,,,,,102.5,,,,,,102.5,2,63.09,62.38,59.58,46.96,,USA,IN,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+T. Murguia,M,B,Raw,,,,Grandmasters D,75,75,,,,,,,,,,87.5,,,,,,87.5,1,62.77,62.35,60.24,46.33,,USA,FL,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+C. Johnson,M,B,Raw,,,,Grandmasters D,82.5,82.5,,,,,,,,,,85,,,,,,85,1,57.58,56.94,54.79,42.83,,USA,CA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
+R. Sanchez,M,B,Raw,,,,Grandmasters D,82.5,82.5,,,,,,,,,,75,,,,,,75,2,50.80,50.24,48.34,37.79,,USA,CA,WPFG,,2005-06-26,Canada,QC,Quebec City,World Police and Fire Games,Yes
